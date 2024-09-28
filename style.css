@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: darkmagenta;
+    color: #fff;
+    padding: 1rem 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+    
+}
+
+nav ul li a {
+    color:darkblue;
+    text-decoration: none;
+}
+
+main {
+    padding: 1rem;
+}
+
+footer {
+    background: rebeccapurple;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    
+    width: 100%;
+    bottom: 0;
+}
+li{ 
+    color: blue;
+}
+section{
+    color:blue;
+}
